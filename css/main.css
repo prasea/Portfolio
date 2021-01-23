@@ -407,7 +407,9 @@ img {
       width: 20px;
       line-height: 20px;
       text-align: center;
-      padding: 0.5rem; }
+      padding: 0.5rem; 
+      background-color: #ccc;
+    }
       #main-footer .footer-content .social .fab:hover {
         background: #ffbc00; }
 
